@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Sub_Hair
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 1fa45188b25addb41ad3f8a326f094c2, type: 2}
+  controls:
+  - name: Flat Bangs
+    icon: {fileID: 2800000, guid: 54fba7645e2c3b04d88b905969228ed7, type: 3}
+    type: 102
+    parameter:
+      name: HairFlatBangs
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: One Side Up OFF
+    icon: {fileID: 2800000, guid: f03ecd4997a6ab44e85d726c37299492, type: 3}
+    type: 102
+    parameter:
+      name: OneSideUp
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Choco Band OFF
+    icon: {fileID: 2800000, guid: fe9547b8f6d11a64abf9c6bc302f9426, type: 3}
+    type: 102
+    parameter:
+      name: ChocoBand
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Ribbon Pin OFF
+    icon: {fileID: 2800000, guid: dd3a61d97a1a75d4fad8d8c0114a4da8, type: 3}
+    type: 102
+    parameter:
+      name: RibbonPin
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []

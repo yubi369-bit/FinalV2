@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: SS_FC1
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 1fa45188b25addb41ad3f8a326f094c2, type: 2}
+  controls:
+  - name: Unlock
+    icon: {fileID: 2800000, guid: 1a5dc4fdb1a7d1b4a933e970af3af167, type: 3}
+    type: 101
+    parameter:
+      name: FC
+    value: 0
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Angry
+    icon: {fileID: 2800000, guid: 5b0d7bf20e4e0ad499b1c704691d49c8, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Angry 2
+    icon: {fileID: 2800000, guid: b3bf30e26633b804586861a161fc42a9, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Angry 3
+    icon: {fileID: 2800000, guid: d260a979d28908d429a5ad9c3b88e7c6, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Blank
+    icon: {fileID: 2800000, guid: a266ff8492b5fe24c80a02841769cdd1, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Chill
+    icon: {fileID: 2800000, guid: 77eb65c2dd191c54481898feafc7232a, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 5
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Confused
+    icon: {fileID: 2800000, guid: e690685786b60424e804e76637a8b509, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 6
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Confused 2
+    icon: {fileID: 2800000, guid: cbfec8ac6e3eb9a40b65b6d75a832a8f, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 7
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []

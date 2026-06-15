@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Sub_Advanced
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 1fa45188b25addb41ad3f8a326f094c2, type: 2}
+  controls:
+  - name: Backlit OFF
+    icon: {fileID: 2800000, guid: 82b25333ca9b99a4b8f248fd7831a5f9, type: 3}
+    type: 102
+    parameter:
+      name: Backlit
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: d418a38d4489d584f89b82052a8e0c61, type: 2}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Emission Tail/Hair
+    icon: {fileID: 2800000, guid: b3f7ea98b0859a64bb58042911814271, type: 3}
+    type: 102
+    parameter:
+      name: Emission
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: d418a38d4489d584f89b82052a8e0c61, type: 2}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Emission Eyes
+    icon: {fileID: 2800000, guid: 189649b9c2230b14a826618508f55207, type: 3}
+    type: 102
+    parameter:
+      name: EmissionEye
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: d418a38d4489d584f89b82052a8e0c61, type: 2}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Gesture Lock
+    icon: {fileID: 2800000, guid: 693c8b493f3489741ba4c800ad2fd223, type: 3}
+    type: 102
+    parameter:
+      name: GestureLock
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Contact
+    icon: {fileID: 2800000, guid: e3d2c7075048d6e48bf364583f2e9ef3, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: d418a38d4489d584f89b82052a8e0c61, type: 2}
+    subParameters:
+    - name: 
+    labels: []

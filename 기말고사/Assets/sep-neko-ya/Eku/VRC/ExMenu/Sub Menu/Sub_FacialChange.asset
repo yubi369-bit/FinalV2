@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Sub_FacialChange
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 1fa45188b25addb41ad3f8a326f094c2, type: 2}
+  controls:
+  - name: Page 1
+    icon: {fileID: 2800000, guid: 046ecb3c09f05c5499391f50e2439678, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 0fb2e8dee0a6e6442ad29670a3c2aad9, type: 2}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Page 2
+    icon: {fileID: 2800000, guid: 2981840fbc6dfdd47a1739a1d0cc3f22, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 076bd6c8634da4647be442b980c7c8df, type: 2}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Page 3
+    icon: {fileID: 2800000, guid: 385fef20970b07c469cd617490c845d0, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: fd50bbb990adecf45afe22840a58b664, type: 2}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Page 4
+    icon: {fileID: 2800000, guid: 020b62c2b792d4449bcb57301e1b849f, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: abfd4a3ddc251fc428ebd548fba14d22, type: 2}
+    subParameters:
+    - name: 
+    labels: []

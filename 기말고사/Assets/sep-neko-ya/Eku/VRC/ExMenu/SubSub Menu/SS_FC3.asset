@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: SS_FC3
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 1fa45188b25addb41ad3f8a326f094c2, type: 2}
+  controls:
+  - name: Unlock
+    icon: {fileID: 2800000, guid: 1a5dc4fdb1a7d1b4a933e970af3af167, type: 3}
+    type: 101
+    parameter:
+      name: FC
+    value: 0
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Relax
+    icon: {fileID: 2800000, guid: dc0c2623678d5f345a061d8d91ae42c9, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 15
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Satistied
+    icon: {fileID: 2800000, guid: c7d66deeb2a95484397e3e16581f91ae, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 16
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Shocked
+    icon: {fileID: 2800000, guid: 7e5e6a33c1f661d4797baa5e05941a98, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 17
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Smile
+    icon: {fileID: 2800000, guid: fa4112a663408b748b6eb56f22da0e46, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 18
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Smile 2
+    icon: {fileID: 2800000, guid: 7e81555a3d26e55419d085d1816b0151, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 19
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []

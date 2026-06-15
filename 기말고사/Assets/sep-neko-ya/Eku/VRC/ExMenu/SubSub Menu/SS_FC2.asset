@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: SS_FC2
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 1fa45188b25addb41ad3f8a326f094c2, type: 2}
+  controls:
+  - name: Unlock
+    icon: {fileID: 2800000, guid: 1a5dc4fdb1a7d1b4a933e970af3af167, type: 3}
+    type: 101
+    parameter:
+      name: FC
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: fd50bbb990adecf45afe22840a58b664, type: 2}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Cry
+    icon: {fileID: 2800000, guid: b9b64e093292cfe49b435c8079a0b95e, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 8
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Cry 2
+    icon: {fileID: 2800000, guid: e38cc5f7977a55140b6f1499ed05d731, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 9
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Curious
+    icon: {fileID: 2800000, guid: d731b8d2237758142a29f9f663c4599f, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 10
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Depressed
+    icon: {fileID: 2800000, guid: a6203b2636539bf478d13313cad86f7c, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 11
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Excited
+    icon: {fileID: 2800000, guid: 07b6a8a40969b014ba0f01c9a0382f61, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 12
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Joy
+    icon: {fileID: 2800000, guid: 57bf9e2df29969749bb35dfefe27962d, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 13
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Puzzled
+    icon: {fileID: 2800000, guid: 9d1ae304180cd89459f4db180aec2b4b, type: 3}
+    type: 102
+    parameter:
+      name: FC
+    value: 14
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []

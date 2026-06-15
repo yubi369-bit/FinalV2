@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DustAndCross
+  m_Shader: {fileID: 4800000, guid: 4bc4157c0f94b024ca798e893081a344, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _ENABLECAMERAFADE_ON
+  - _ENABLECUSTOMDATAINTENSITY_ON
+  - _UVMODE_U
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DirectDissolveTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissolveFlowMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissolveMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainMap:
+        m_Texture: {fileID: 2800000, guid: 054c916047047ea4aba196741812dce9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BottomFadePos: 0
+    - _BottomFadeWidth: 1
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DirectDissolveEdgeWidth: 0.1
+    - _DirectDissolveThreshold: 0
+    - _DirectDissolveWidth: 1
+    - _DissolveFlowIntensity: 0.5
+    - _DstBlend: 1
+    - _EdgeSmoothness: 0.05
+    - _EdgeWidth: 0.03
+    - _EnableCameraFade: 1
+    - _EnableCustomDataDissolve: 0
+    - _EnableCustomDataIntensity: 1
+    - _EnableDirectionalDissolve: 0
+    - _EnableDissolve: 0
+    - _EnableDissolveFlow: 0
+    - _EnableFresnel: 0
+    - _EnableUVFade: 0
+    - _FadeEnd: 0.1
+    - _FadeStart: 0.05
+    - _FresnelIntensity: 1
+    - _FresnelInverse: 0
+    - _FresnelWidth: 3
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Intensity: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _Threshold: 0.16
+    - _TopFadePos: 0
+    - _TopFadeWidth: 1
+    - _UVMode: 0
+    - _UVSec: 0
+    - _ZWrite: 1
+    - _isCustomDataDirectDissolve: 0
+    - _isDirectPolar: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _DirectDissolveEdgeColor: {r: 1, g: 1, b: 1, a: 1}
+    - _DirectDissolvePanning: {r: 0, g: 0, b: 0, a: 0}
+    - _DirectDissolveTiling: {r: 1, g: 1, b: 0, a: 0}
+    - _DissolveFlowScroll: {r: 0, g: 0, b: 0, a: 0}
+    - _DissolveFlowTiling: {r: 1, g: 1, b: 0, a: 0}
+    - _DissolveScroll: {r: 0, g: 0, b: 0, a: 0}
+    - _DissolveTiling: {r: 1, g: 1, b: 0, a: 0}
+    - _EdgeColor: {r: 1, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _MainColor: {r: 1, g: 1, b: 1, a: 1}
+    - _MainMapScroll: {r: 0, g: 0, b: 0, a: 0}
+    - _MainMapTiling: {r: 1, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []

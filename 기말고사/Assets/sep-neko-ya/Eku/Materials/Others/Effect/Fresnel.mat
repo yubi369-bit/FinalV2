@@ -1,0 +1,343 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Fresnel
+  m_Shader: {fileID: 4800000, guid: 4bc4157c0f94b024ca798e893081a344, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _ENABLECAMERAFADE_ON
+  - _ENABLEFRESNEL_ON
+  - _UVMODE_U
+  m_InvalidKeywords:
+  - _ALPHABLEND_ON
+  - _FADING_ON
+  - _USEFRESNEL_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaFadeMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DirectDissolveTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissolveFlowMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissolveMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GradientMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GradientNoiseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MatCapTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SecondMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TrailEdgeDissolveMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _UVDistortion2Map:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _UVDistortionDMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _UVDistortionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _VertexNoiseTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AFNoisePower: 0
+    - _AFNoiseStrength: 2
+    - _AlphaFadeThreshold: 0
+    - _Bias: 0
+    - _BlendOp: 0
+    - _Blending: 0
+    - _BottomFadePos: 0
+    - _BottomFadeWidth: 1
+    - _BumpScale: 1
+    - _CameraFadingEnabled: 0
+    - _CameraFarFadeDistance: 2
+    - _CameraNearFadeDistance: 1
+    - _CausticsNoiseIntensity: 0
+    - _CausticsNoiseScale: 2
+    - _CenterSize: 0.94
+    - _CenterStrength: 1.31
+    - _ChromaticAberration: 0.1
+    - _CircleWidth: 0
+    - _ColorMode: 0
+    - _Comp: 0
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DirectDissolveEdgeWidth: 0.1
+    - _DirectDissolveThreshold: 0
+    - _DirectDissolveWidth: 1
+    - _DissolveFlowIntensity: 0.5
+    - _DissolveShearX: 0
+    - _DissolveShearY: 0
+    - _Distortion1Intensity: 0
+    - _Distortion2Intensity: 0.5
+    - _DistortionBlend: 0.5
+    - _DistortionDIntensity: 0.5
+    - _DistortionEnabled: 0
+    - _DistortionStrength: 1
+    - _DistortionStrengthScaled: 0
+    - _DstBlend: 1
+    - _EdgeSmoothness: 0.05
+    - _EdgeWidth: 0.03
+    - _EmissionEnabled: 0
+    - _EmissionIntensity: 0
+    - _EnableCameraFade: 1
+    - _EnableCustomDataDissolve: 0
+    - _EnableCustomDataIntensity: 0
+    - _EnableDirectionalDissolve: 0
+    - _EnableDissolve: 0
+    - _EnableDissolveFlow: 0
+    - _EnableFresnel: 1
+    - _EnableUVFade: 0
+    - _FadeEnd: 0.1
+    - _FadeStart: 0.05
+    - _FlipbookMode: 0
+    - _FresnelIntensity: 1
+    - _FresnelInverse: 0
+    - _FresnelWidth: 1.29
+    - _GenerateNoise1Strength: 2
+    - _GenerateNoise2Strength: 2
+    - _GenerateNoiseDStrength: 2
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _HorizontalBorder: 3
+    - _HorizontalLength: 1
+    - _Hue: 0
+    - _Intensity: 1
+    - _LightingEnabled: 0
+    - _MaskNoisePower: 0
+    - _Metallic: 0
+    - _Mode: 4
+    - _Noise1Power: 1
+    - _Noise1ShearX: 0
+    - _Noise1ShearY: 0
+    - _Noise2Power: 1
+    - _Noise2ShearX: 0
+    - _Noise2ShearY: 0
+    - _OcclusionStrength: 1
+    - _OutsideSize: 1
+    - _OutsideStrength: 1
+    - _Parallax: 0.02
+    - _Pass: 0
+    - _Power: 5
+    - _RandomMul: 0
+    - _RandomMulY: 0
+    - _Ref: 0
+    - _Saturation: 0
+    - _SecondColorThreshold: 0
+    - _Size: 1
+    - _SmoothnessTextureChannel: 0
+    - _SoftParticle: 0
+    - _SoftParticlesEnabled: 1
+    - _SoftParticlesFarFadeDistance: 0.09
+    - _SoftParticlesNearFadeDistance: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _StartAlphaFade: 0
+    - _StartDissolve: 0
+    - _TestFloat: 1
+    - _Threshold: 0.16
+    - _ToggleXY: 0
+    - _TopFadePos: 0
+    - _TopFadeWidth: 1
+    - _TrailEdgeDissolveLength: 0
+    - _TrailEdgeDissolveNoisePower: 1
+    - _TrailEdgeDissolveThreshold: 0
+    - _UVMode: 0
+    - _UVSec: 0
+    - _VertexBorder: -0.5
+    - _VertexIntensity: 1
+    - _VerticalBorder: 3
+    - _VerticalLength: 1
+    - _VoronoiAngleSpeed: 1
+    - _VoronoiIntensity: 1
+    - _VoronoiPower: 1
+    - _VoronoiScale: 5.5
+    - _ZTest: 4
+    - _ZWrite: 0
+    - _isBothDissolve: 0
+    - _isCameraFade: 0
+    - _isCustomDataAlphaFade: 0
+    - _isCustomDataDirectDissolve: 0
+    - _isCustomDataDissolve: 0
+    - _isCustomDataOffset: 0
+    - _isCustomIntensity: 0
+    - _isDirectPolar: 0
+    - _isDissolvePolar: 0
+    - _isFirst: 1
+    - _isFresnelInverse: 0
+    - _isLifetimeAlphaFade: 0
+    - _isLifetimeDissolve: 0
+    - _isMainPolar: 0
+    - _isNoise1Polar: 0
+    - _isNoise2Polar: 0
+    - _isSoftParticle: 0
+    - _isSubtract: 0
+    - _isTrailEdgeDissolve: 0
+    - _isUVDistortion1: 0
+    - _isUVDistortion2: 0
+    - _isUVDistortionD: 0
+    - _matcapIntensity: 0
+    - _useAlphaFade: 0
+    - _useCACaustics: 0
+    - _useCircle: 0
+    - _useDissolve: 0
+    - _useDust: 0
+    - _useFresnel: 1
+    - _useGeneNoise4AF: 0
+    - _useGenerateNoise1: 0
+    - _useGenerateNoise2: 0
+    - _useGenerateNoiseD: 0
+    - _useGlitter: 0
+    - _useGradientMask: 0
+    - _useMatCap: 0
+    - _useNoise1: 0
+    - _useNoise2: 0
+    - _useSecondMask: 0
+    - _useVertexOffset: 0
+    m_Colors:
+    - _AlphaFadePanning: {r: 0, g: 0, b: 0, a: 0}
+    - _AlphaFadeTiling: {r: 1, g: 1, b: 0, a: 0}
+    - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
+    - _CausticsNoisePanning: {r: 0, g: 0, b: 0, a: 0}
+    - _CausticsNoiseTiling: {r: 1, g: 1, b: 0, a: 0}
+    - _Color: {r: 4, g: 1.0377359, b: 1.0377359, a: 1}
+    - _ColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
+    - _DirectDissolveEdgeColor: {r: 1, g: 1, b: 1, a: 1}
+    - _DirectDissolvePanning: {r: 0, g: 0, b: 0, a: 0}
+    - _DirectDissolveTiling: {r: 1, g: 1, b: 0, a: 0}
+    - _DissolveFlowScroll: {r: 0, g: 0, b: 0, a: 0}
+    - _DissolveFlowTiling: {r: 1, g: 1, b: 0, a: 0}
+    - _DissolvePanning: {r: 0, g: 0, b: 0, a: 0}
+    - _DissolveScroll: {r: 0, g: 0, b: 0, a: 0}
+    - _DissolveTiling: {r: 1, g: 1, b: 0, a: 0}
+    - _EdgeColor: {r: 1, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _GradientColor: {r: 1, g: 1, b: 1, a: 1}
+    - _GradientMaskPanning: {r: 0, g: 0, b: 0, a: 0}
+    - _GradientMaskTilling: {r: 1, g: 1, b: 0, a: 0}
+    - _MainColor: {r: 4.1092243, g: 0.82982606, b: 0.29074696, a: 1}
+    - _MainMapScroll: {r: 0, g: 0, b: 0, a: 0}
+    - _MainMapTiling: {r: 1, g: 1, b: 0, a: 0}
+    - _MainOffset: {r: 0, g: 0, b: 0, a: 0}
+    - _MainPolarCenter: {r: 1, g: 1, b: 0, a: 0}
+    - _Noise1Panning: {r: 0.1, g: 0.4, b: 0, a: 0}
+    - _Noise1Tiling: {r: 1, g: 1, b: 0, a: 0}
+    - _Noise2Panning: {r: -0.1, g: 0.3, b: 0, a: 0}
+    - _Noise2Tiling: {r: 1, g: 1, b: 0, a: 0}
+    - _SecondColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SecondOffset: {r: 0, g: 0, b: 0, a: 0}
+    - _SoftParticleFadeParams: {r: 0, g: 11.111111, b: 0, a: 0}
+    - _TrailEdgeDissolveScroll: {r: -1, g: 0, b: 0, a: 0}
+    - _TrailEdgeDissolveTilling: {r: 1, g: 1, b: 0, a: 0}
+    - _UVDistortion1Panning: {r: 0, g: 0, b: 0, a: 0}
+    - _UVDistortion1Tiling: {r: 1, g: 1, b: 0, a: 0}
+    - _UVDistortion2Panning: {r: 0, g: 0, b: 0, a: 0}
+    - _UVDistortion2Tiling: {r: 1, g: 1, b: 0, a: 0}
+    - _UVDistortionDPanning: {r: 0, g: 0, b: 0, a: 0}
+    - _UVDistortionDTiling: {r: 1, g: 1, b: 0, a: 0}
+    - _VTInfoBlock: {r: 0, g: 0, b: 0, a: 0}
+    - _VertexNoisePanning: {r: 0, g: 0, b: 0, a: 0}
+    - _VertexNoiseTiling: {r: 1, g: 1, b: 0, a: 0}
+    - _VoronoiPanning: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
