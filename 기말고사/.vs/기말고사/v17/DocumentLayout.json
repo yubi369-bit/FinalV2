@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64D65108-1BD9-EA22-743F-BF642E4B5837}|Assembly-CSharp.csproj|E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D65108-1BD9-EA22-743F-BF642E4B5837}|Assembly-CSharp.csproj|solutionrelative:assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D65108-1BD9-EA22-743F-BF642E4B5837}|Assembly-CSharp.csproj|E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\assets\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D65108-1BD9-EA22-743F-BF642E4B5837}|Assembly-CSharp.csproj|solutionrelative:assets\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D65108-1BD9-EA22-743F-BF642E4B5837}|Assembly-CSharp.csproj|E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\assets\\destroyonhit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D65108-1BD9-EA22-743F-BF642E4B5837}|Assembly-CSharp.csproj|solutionrelative:assets\\destroyonhit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D65108-1BD9-EA22-743F-BF642E4B5837}|Assembly-CSharp.csproj|E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\assets\\cubeexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D65108-1BD9-EA22-743F-BF642E4B5837}|Assembly-CSharp.csproj|solutionrelative:assets\\cubeexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D65108-1BD9-EA22-743F-BF642E4B5837}|Assembly-CSharp.csproj|E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\assets\\timermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D65108-1BD9-EA22-743F-BF642E4B5837}|Assembly-CSharp.csproj|solutionrelative:assets\\timermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D65108-1BD9-EA22-743F-BF642E4B5837}|Assembly-CSharp.csproj|E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\assets\\speedpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D65108-1BD9-EA22-743F-BF642E4B5837}|Assembly-CSharp.csproj|solutionrelative:assets\\speedpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D65108-1BD9-EA22-743F-BF642E4B5837}|Assembly-CSharp.csproj|E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\assets\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D65108-1BD9-EA22-743F-BF642E4B5837}|Assembly-CSharp.csproj|solutionrelative:assets\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D65108-1BD9-EA22-743F-BF642E4B5837}|Assembly-CSharp.csproj|E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\assets\\collectitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D65108-1BD9-EA22-743F-BF642E4B5837}|Assembly-CSharp.csproj|solutionrelative:assets\\collectitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D65108-1BD9-EA22-743F-BF642E4B5837}|Assembly-CSharp.csproj|e:\\2026_3d_ducci\\\uAE30\uB9D0\uACE0\uC0AC\\assets\\movingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D65108-1BD9-EA22-743F-BF642E4B5837}|Assembly-CSharp.csproj|solutionrelative:assets\\movingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D65108-1BD9-EA22-743F-BF642E4B5837}|Assembly-CSharp.csproj|e:\\2026_3d_ducci\\\uAE30\uB9D0\uACE0\uC0AC\\assets\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D65108-1BD9-EA22-743F-BF642E4B5837}|Assembly-CSharp.csproj|solutionrelative:assets\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\2026_3d_ducci\\\uAE30\uB9D0\uACE0\uC0AC\\assets\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Goal.cs",
+              "DocumentMoniker": "E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\Assets\\Goal.cs",
+              "RelativeDocumentMoniker": "Assets\\Goal.cs",
+              "ToolTip": "E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\Assets\\Goal.cs",
+              "RelativeToolTip": "Assets\\Goal.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T17:56:18.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovingPlatform.cs",
+              "DocumentMoniker": "E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\Assets\\MovingPlatform.cs",
+              "RelativeDocumentMoniker": "Assets\\MovingPlatform.cs",
+              "ToolTip": "E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\Assets\\MovingPlatform.cs",
+              "RelativeToolTip": "Assets\\MovingPlatform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T17:48:14.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CollectItem.cs",
+              "DocumentMoniker": "E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\Assets\\CollectItem.cs",
+              "RelativeDocumentMoniker": "Assets\\CollectItem.cs",
+              "ToolTip": "E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\Assets\\CollectItem.cs",
+              "RelativeToolTip": "Assets\\CollectItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T17:39:36.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\Assets\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\ScoreManager.cs",
+              "ToolTip": "E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\Assets\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\ScoreManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T17:38:36.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpeedPad.cs",
+              "DocumentMoniker": "E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\Assets\\SpeedPad.cs",
+              "RelativeDocumentMoniker": "Assets\\SpeedPad.cs",
+              "ToolTip": "E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\Assets\\SpeedPad.cs",
+              "RelativeToolTip": "Assets\\SpeedPad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T17:34:19.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimerManager.cs",
+              "DocumentMoniker": "E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\Assets\\TimerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\TimerManager.cs",
+              "ToolTip": "E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\Assets\\TimerManager.cs",
+              "RelativeToolTip": "Assets\\TimerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T17:20:45.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CubeExplosion.cs",
+              "DocumentMoniker": "E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\Assets\\CubeExplosion.cs",
+              "RelativeDocumentMoniker": "Assets\\CubeExplosion.cs",
+              "ToolTip": "E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\Assets\\CubeExplosion.cs",
+              "RelativeToolTip": "Assets\\CubeExplosion.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T17:05:51.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DestroyOnHit.cs",
+              "DocumentMoniker": "E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\Assets\\DestroyOnHit.cs",
+              "RelativeDocumentMoniker": "Assets\\DestroyOnHit.cs",
+              "ToolTip": "E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\Assets\\DestroyOnHit.cs",
+              "RelativeToolTip": "Assets\\DestroyOnHit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T17:04:54.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\Assets\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraFollow.cs",
+              "ToolTip": "E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\Assets\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\CameraFollow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T11:36:55.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\Assets\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerController.cs",
+              "ToolTip": "E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\Assets\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\PlayerController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwDgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T11:35:33.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\Assets\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\NewBehaviourScript.cs",
+              "ToolTip": "E:\\2026_3D_Ducci\\\uAE30\uB9D0\uACE0\uC0AC\\Assets\\NewBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\NewBehaviourScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T11:35:18.454Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
